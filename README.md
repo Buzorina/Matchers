@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/vby9aq7ko61latkd?svg=true)](https://ci.appveyor.com/project/Buzorina/matchers)
